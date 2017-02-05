@@ -63,6 +63,7 @@ logo: >-
 author:
   name: Ged Sloan
   email: info@solarpanels4u.com
+  url: 'https://www.regen2energy.com'
 opengraph:
   type: 'https://www.facebook.com/regen2energy/?fref=ts&ref=br_tf'
   appId: 'https://www.facebook.com/regen2energy/?fref=ts&ref=br_tf'
