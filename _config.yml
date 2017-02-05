@@ -37,7 +37,6 @@ content:
         domain: www.solarpanels4u.com
       keywords: []
       description: Solar Panels 4u
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
