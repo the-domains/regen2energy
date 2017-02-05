@@ -1,0 +1,34 @@
+color:
+  brandColors:
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+  brandStrength: 0.6683430126868188
+  lightness: 0.1698014645371586
+  saturation: 0.6743588570971042
+  rhythmicContrast: 0.521758880931884
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Regen2energy
+layout_spectrum: 0.7065111750271171
+typography_spectrum: 0.32882050261832774
+content: []
+title: Regen2energy
+description: Power When You Need It
+purpose:
+  - type: contact
+    url: 'tel:017862306595'
+    label: Call 017862306595
+  - type: contact
+    url: 'mailto:info@solarpanels4u.com'
+    label: Contact me
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d7bcf3a-46a4-46ad-8403-1d8fa25ef8f2.jpg
+github: true
