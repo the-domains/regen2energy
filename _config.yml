@@ -19,7 +19,34 @@ colors:
 name: Regen2energy
 layout_spectrum: 0.7065111750271171
 typography_spectrum: 0.32882050261832774
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: article
+    html: >-
+      <article><h1>Welcome to Solar Panels 4u</h1><p>Solar Panels 4u</p><img
+      src="http://www.solarpanels4u.com/assets/images/solar-logo-1400x665.png"></article>
+    src: 'http://www.solarpanels4u.com/assets/images/solar-logo-1400x665.png'
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'http://www.solarpanels4u.com'
+        name: Solarpanels4u
+        favicon: >-
+          http://www.solarpanels4u.com/assets/images/solar-logo-white-269x128.png
+        domain: www.solarpanels4u.com
+      keywords: []
+      description: Solar Panels 4u
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      isBasedOnUrl: 'http://www.solarpanels4u.com/'
+      title: Welcome to Solar Panels 4u
+      datePublished: null
+    title: Welcome to Solar Panels 4u
+    caption: Solar Panels 4u
+    text: !<tag:yaml.org,2002:js/undefined> ''
 title: Regen2energy
 description: Power When You Need It
 purpose:
