@@ -19,7 +19,32 @@ colors:
 name: Regen2energy
 layout_spectrum: 0.7065111750271171
 typography_spectrum: 0.32882050261832774
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/089debfd-7001-42ad-bfbc-9f4aa4d1b439.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/089debfd-7001-42ad-bfbc-9f4aa4d1b439.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 title: Regen2energy
 description: Power When You Need It
 purpose:
