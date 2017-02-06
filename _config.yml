@@ -1,14 +1,16 @@
+layout_spectrum: 0.3255342735814871
+typography_spectrum: 0.12097598572778008
 color:
   brandColors:
-    - '#FF6138'
-    - '#FFFF9D'
-    - '#BEEB9F'
-    - '#79BD8F'
-    - '#00A388'
-  brandStrength: 0.6683430126868188
-  lightness: 0.1698014645371586
-  saturation: 0.6743588570971042
-  rhythmicContrast: 0.521758880931884
+    - '#00261C'
+    - '#044D29'
+    - '#168039'
+    - '#45BF55'
+    - '#96ED89'
+  brandStrength: 0.28361337979775997
+  lightness: 0.018034419215348835
+  saturation: 0.6884286697213492
+  rhythmicContrast: 0.8978249005992703
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -17,8 +19,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 name: Regen2energy
-layout_spectrum: 0.7065111750271171
-typography_spectrum: 0.32882050261832774
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -37,7 +37,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
