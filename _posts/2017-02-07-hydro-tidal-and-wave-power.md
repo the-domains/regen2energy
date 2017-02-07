@@ -17,15 +17,15 @@ description: >-
   that the total availability of tidal power may be much higher than previously
   assumed, and that economic and environmental costs may be brought down to
   competitive levels..
-dateModified: '2017-02-07T09:34:59.886Z'
-datePublished: '2017-02-07T09:35:00.546Z'
+dateModified: '2017-02-07T09:36:27.720Z'
+datePublished: '2017-02-07T09:36:28.648Z'
 title: Hydro Tidal & Wave Power
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-02-07-hydro-tidal-and-wave-power.md
 starred: false
 datePublishedOriginal: '2017-02-07T09:35:00.546Z'
-sourcePath: _posts/2017-02-07-hydro-tidal-and-wave-power.md
 _type: Blurb
 
 ---
