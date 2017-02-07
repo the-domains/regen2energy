@@ -25,15 +25,15 @@ description: >-
   prices lower than otherwise. These advantages are global. Hence the additional
   costs of the incentives for early deployment should be considered learning
   investments; they must be wisely spent and need to be widely shared".
-dateModified: '2017-02-07T09:28:09.498Z'
-datePublished: '2017-02-07T09:28:10.011Z'
+dateModified: '2017-02-07T09:36:27.720Z'
+datePublished: '2017-02-07T09:36:28.557Z'
 title: Solar Power
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-02-07-solar-power.md
 starred: false
 datePublishedOriginal: '2017-02-07T09:28:10.011Z'
-sourcePath: _posts/2017-02-07-solar-power.md
 _type: Blurb
 
 ---
