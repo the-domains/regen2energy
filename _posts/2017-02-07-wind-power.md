@@ -30,15 +30,15 @@ description: >-
   global wind power capacity expanded 16% to 369,553 MW.[17] Yearly wind energy
   production is also growing rapidly and has reached around 4% of worldwide
   electric power usage, 11.4% in the EU.
-dateModified: '2017-02-07T09:31:00.874Z'
-datePublished: '2017-02-07T09:31:01.374Z'
+dateModified: '2017-02-07T09:36:27.720Z'
+datePublished: '2017-02-07T09:36:28.790Z'
 title: Wind Power
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-02-07-wind-power.md
 starred: false
 datePublishedOriginal: '2017-02-07T09:31:01.374Z'
-sourcePath: _posts/2017-02-07-wind-power.md
 _type: Blurb
 
 ---
