@@ -1,4 +1,3 @@
-layout_spectrum: 0.3255342735814871
 typography_spectrum: 0.12097598572778008
 color:
   brandColors:
@@ -11,6 +10,15 @@ color:
   lightness: 0.018034419215348835
   saturation: 0.6884286697213492
   rhythmicContrast: 0.8978249005992703
+github: true
+layout_spectrum: 0.3255342735814871
+author:
+  name: Ged Sloan
+  email: gerald@solarpanels4u.com
+  url: 'http://regen2energy.link/'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9764171-6614-4311-aa45-8533d0b67954.jpg
+name: Regen2energy
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -18,7 +26,13 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-name: Regen2energy
+navigation:
+  - name: Partners
+    url: 'http://www.solarpanels4u.com/index.html'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d7bcf3a-46a4-46ad-8403-1d8fa25ef8f2.jpg
+title: Regen2energy
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -28,23 +42,22 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/089debfd-7001-42ad-bfbc-9f4aa4d1b439.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-title: Regen2energy
 description: Power When You Need It
 purpose:
   - type: contact
@@ -53,12 +66,3 @@ purpose:
   - type: contact
     url: 'mailto:info@solarpanels4u.com'
     label: Contact me
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d7bcf3a-46a4-46ad-8403-1d8fa25ef8f2.jpg
-github: true
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9764171-6614-4311-aa45-8533d0b67954.jpg
-author:
-  name: Ged Sloan
-  email: gerald@solarpanels4u.com
-  url: 'http://regen2energy.link/'
