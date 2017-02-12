@@ -66,3 +66,5 @@ purpose:
   - type: contact
     url: 'mailto:info@solarpanels4u.com'
     label: Contact me
+opengraph:
+  type: 'https://www.facebook.com/solarpanels4u.Inc/'
