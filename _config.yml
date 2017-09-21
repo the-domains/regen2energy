@@ -11,6 +11,8 @@ color:
   saturation: 0.6884286697213492
   rhythmicContrast: 0.8978249005992703
 github: true
+opengraph:
+  type: 'https://www.facebook.com/solarpanels4u.Inc/'
 layout_spectrum: 0.3255342735814871
 author:
   name: Ged Sloan
@@ -29,6 +31,9 @@ colors:
 navigation:
   - name: Partners
     url: 'http://www.solarpanels4u.com/index.html'
+    type: external
+  - name: Online Solar Shop
+    url: 'https://www.solarpanels4u.co'
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d7bcf3a-46a4-46ad-8403-1d8fa25ef8f2.jpg
@@ -66,5 +71,3 @@ purpose:
   - type: contact
     url: 'mailto:info@solarpanels4u.com'
     label: Contact me
-opengraph:
-  type: 'https://www.facebook.com/solarpanels4u.Inc/'
